@@ -1,3 +1,4 @@
+![XSpaceSoft Logo](https://github.com/xspacesoft/documents/raw/master/header_logo_black.png)
 # Regolamento del gruppo “Gli Informatici”
 L’accesso e la navigazione sul gruppo da parte dei singoli utenti, sono gratuiti e subordinati all’accettazione dei termini e delle condizioni di seguito elencati.
 ## Termini Generali
