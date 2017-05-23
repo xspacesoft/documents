@@ -47,6 +47,6 @@ Chiunque non sia disposto ad accettarlo verrà allontanato immediatamente dal gr
 “Gli Informatici” è un progetto del network di XSpaceSoft Informatics.
 
 ## Altri gruppi del nostro network:
-I Gamer: https://www.facebook.com/groups/XSpaceSoft.Gamer/
-Gli Informatici: https://www.facebook.com/groups/XSpaceSoft.Informatici/
-I Cinemaniaci: https://www.facebook.com/groups/XSpaceSoft.Cinemaniaci/
+* I Gamer: https://www.facebook.com/groups/XSpaceSoft.Gamer/
+* Gli Informatici: https://www.facebook.com/groups/XSpaceSoft.Informatici/
+* I Cinemaniaci: https://www.facebook.com/groups/XSpaceSoft.Cinemaniaci/
